@@ -1,10 +1,14 @@
-Analysis of two tweets from the leaders of the ALP and LNP in Australia:
+Analysis of two tweets from the leaders of the ALP and LNP in Australia.
+
+The tweet thread where I posted this analysis is here: https://twitter.com/timothyjgraham/status/1513014392740540418. 
+
+The two tweets under examination are:
 
 1. https://twitter.com/AlboMP/status/1512657668053540864
 2. https://twitter.com/ScottMorrisonMP/status/1512675612796006404
 
 I collected all the likes for these tweets and the IDs of accounts that liked each tweet are provided in the two files in this repository.
 
-The analysis used Botometer (v4). 
+I also provide Python code for analysing each tweet, provided in the two Jupyter Notebook files (ipynb). 
 
-The tweet thread where I posted this analysis is here: https://twitter.com/timothyjgraham/status/1513014392740540418
+The analysis used Botometer Pro: https://rapidapi.com/OSoMe/api/botometer-pro/details.
