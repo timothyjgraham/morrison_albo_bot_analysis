@@ -1,4 +1,4 @@
-Analysis of two tweets from the leaders of the ALP and LNP in Australia.
+## Analysis of two tweets from the leaders of the ALP and LNP in Australia.
 
 The tweet thread where I posted this analysis is here: https://twitter.com/timothyjgraham/status/1513014392740540418. 
 
