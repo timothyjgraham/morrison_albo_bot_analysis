@@ -9,7 +9,7 @@ The two tweets under examination are:
 
 I collected all the likes for these tweets and the IDs of accounts that liked each tweet are provided in the two files in this repository.
 
-I used 'twarc2' to collect the data. For example, to collect the liking accounts for AlboMP's we use the following command:
+I used 'twarc2' to collect the data: https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/. For example, to collect the liking accounts for AlboMP's we use the following command:
 
 ```
 twarc2 liking_users 1512657668053540864 1512657668053540864_liking_users.jsonl
