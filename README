@@ -9,6 +9,12 @@ The two tweets under examination are:
 
 I collected all the likes for these tweets and the IDs of accounts that liked each tweet are provided in the two files in this repository.
 
-I also provide Python code for analysing each tweet, provided in the two Jupyter Notebook files (ipynb). 
+I used 'twarc2' to collect the data. For example, to collect the liking accounts for AlboMP's we use the following command:
+
+```
+twarc2 liking_users 1512657668053540864 1512657668053540864_liking_users.jsonl
+```
+
+I also provide Python code for analysing each tweet, provided in the two Jupyter Notebook files (ipynb). The python code takes as input the 'liking-users' data as shown in previous step. 
 
 The analysis used Botometer Pro: https://rapidapi.com/OSoMe/api/botometer-pro/details.
