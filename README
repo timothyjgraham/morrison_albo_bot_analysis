@@ -1,1 +1,8 @@
-test
+Analysis of two tweets from the leaders of the ALP and LNP in Australia:
+
+1. https://twitter.com/AlboMP/status/1512657668053540864
+2. https://twitter.com/ScottMorrisonMP/status/1512675612796006404
+
+I collected all the likes for these tweets and the IDs of accounts that liked each tweet are provided in the two files in this repository.
+
+The analysis used Botometer (v4). 
